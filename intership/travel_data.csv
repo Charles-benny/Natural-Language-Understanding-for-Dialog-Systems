@@ -1,0 +1,26 @@
+utterance,intent
+What is the weather like today?,weather
+Could you tell me what's the weather like today?,weather
+How the weather looking for today?,weather
+Any idea about today's weather forecast?,weather
+Do you have any information on today's weather conditions?,weather
+Could you give me an update on today's weather?,weather
+What's the forecast for today weather is ?,weather
+Can you let me know how the weather is today?,weather
+"I am curious, what's the weather doing today?",weather
+What is the current weather situation?,weather
+What's the current weather situation?,weather
+What is the current weather Condition?,weather
+What's the current weather Condition?,book_flight
+Book a flight to New York,book_flight
+I'd like to reserve a flight to New York.,book_flight
+"Can you help me book a flight to New York?,I need to purchase a plane ticket to New York.",book_flight
+Could you assist me with booking a flight to New York?,book_flight
+I'm looking to fly to New York; can you help me with that?,book_flight
+I want to arrange a flight to New York.,book_flight
+Please book me a flight to New York.,book_flight
+I'd like to make a reservation for a flight to New York.,book_flight
+Can you book flight to New York?,book_flight
+How do I go about booking a flight to New York?,book_flight
+Set an alarm for 7am,set_alarm
+Buy milk,buy
